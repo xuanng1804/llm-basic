@@ -29,5 +29,3 @@ Just copy the code into a Jupyter notebook and run each cell. You'll see:
 * Visualizations of the attention mechanism
 
 The code is intentionally simplified to show the concepts clearly. Real LLMs like GPT use billions of parameters, transformer architectures, and massive datasets, but the core principles are the same as shown in this demo!
-
-Would you like me to explain any specific part in more detail or add additional concepts?
